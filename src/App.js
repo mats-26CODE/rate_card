@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="app">
       <RateCard
+        //card styling props -> you can play around with them
         cardBackgroundColor={"lightgray"}
         cardSpacing={10}
         cardFontStyle={"Ubuntu"}
