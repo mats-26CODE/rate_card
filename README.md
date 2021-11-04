@@ -1,5 +1,7 @@
 A Simple Rate Card
 
+* Currency Converted are USD/XLM to TZS, KES, RWF.
+
 Installation
 
 Install using npm install @mats_/react-rate-card

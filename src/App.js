@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import "antd/dist/antd.css";
-import RateCard from "./lib/component/rateCard/rate/RateCard";
+import RateCard from "./lib/component/ratecard/rate/RateCard";
 
 function App() {
   return (

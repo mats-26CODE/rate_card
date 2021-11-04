@@ -1,0 +1,39 @@
+.rate__card_container {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.rate__box,
+.rate__select_box,
+.rate__amount_box {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.rate__select_box h5,
+.rate__amount_box h5 {
+  font-size: 12px;
+  text-align: right;
+}
+
+.rate__box > div > div:first-child {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.rate__box > div > div:first-child h5 {
+  font-size: larger;
+  font-weight: 700;
+  margin: 0 0 0 20px;
+}
+
+.rate__box > div > div:last-child {
+  margin: 15px 0 0 15px;
+  float: right;
+}
+
+.rate__box > div > div:last-child p {
+  font-size: larger;
+}
+    
